@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/9yNG8wG/1.png" alt="1" border="0">
+<img src="https://i.ibb.co/9yNG8wG/1.png" alt="1" border="1">
 </p>
 
 <h1>Microsoft Azure - How to Create a Virtual Machine</h1>
