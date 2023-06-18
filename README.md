@@ -42,11 +42,21 @@ After that it will ask you to fill out the key info. For convenience here's a sh
 - <strong>Username and password</strong> - Name is something convenient and ensure you note it down somewhere
 - <strong>Licensing</strong> - confirm you have a license for Windows 10.
 
+Fill out the first screen completely using the info above, and hit review and create. There are additional tabs such as 'disk' and 'network'. But, these can all be left as default. It will create a default virtual network.
+
 Here's a screenshot showing the final screen:<br><br>
 
 <img src="https://i.ibb.co/d6nskmx/3.jpg" alt="3" border="0">
 
-From there fill out the first screen completely using the info above, and hit review and create.
-
+Hit 'review and create'. It will take a few minutes to create it for you. If you get any error messages you have likely accidentally left something out or filled out a field incorrectly. A common one, is accidentally not selecting that you have a Windows license. You simply need to tick the box and hit review and create a gain.
 
 <h3>3. Log into remote machine</h3>
+Your virtual machine is all set up. Now, let's log into it. The vast majority of people use Windows, so I will explain how to log into it using Windows. For Mac or Linux, do a quick Google search for what program to use.
+
+Open Windows Remote Desktop by searching for it in your Windows start menu. Below, is a screenshots showing how to open it:<br><br>
+
+<img src="https://i.ibb.co/jr0Vf4L/4.jpg" alt="4" border="0">
+
+Next, you need to grab the public address for the virtual machine you created in the network settings in Azure. To access click on the virtual machine you created and it will show the basic info about. Below, is a screenshot showing where to find it: <br><br>
+
+<img src="https://i.ibb.co/1sf7QQb/5-public-ip.jpg" alt="5-public-ip" border="0">
