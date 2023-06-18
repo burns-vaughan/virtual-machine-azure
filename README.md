@@ -59,7 +59,7 @@ Open Windows Remote Desktop by searching for it in your Windows start menu. Belo
 
 Next, you need to grab the public address for the virtual machine you created in the network settings in Azure. To access click on the virtual machine you created and it will show the basic info about. Below, is a screenshot showing where to find it: <br><br>
 
-<img src="https://i.ibb.co/1sf7QQb/5-public-ip.jpg" alt="5-public-ip" border="0"> <br><br>
+<img src="https://i.ibb.co/1sf7QQb/5-public-ip.jpg" alt="5-public-ip" border="0"> </br></br>
 
 Input that into the Windows Remote Desktop, shown in the screenshot below:<br>
 <img src="https://i.ibb.co/6RrbF33/remote-desktop-input-ip.jpg" alt="remote-desktop-input-ip" border="0"> <br><br>
