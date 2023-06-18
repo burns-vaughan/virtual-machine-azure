@@ -25,7 +25,7 @@ The first step is to initiate creating a virtual machine in Azure. To do that lo
 
 Below, is a screenshot showing where to create the virtual machine in Azure. As well as, the first screen you should see:<br><br>
 
-<img src="https://i.ibb.co/jZL6b6M/os-Ticket-prereqs1.jpg" alt="os-Ticket-prereqs1" border="0" /><br>
+<img src="https://i.ibb.co/jZL6b6M/os-Ticket-prereqs1.jpg" alt="os-Ticket-prereqs1" border="0" style="border: 1px solid #000;" /><br>
 <br><br>
 Here's a screenshot showing the next screen, and the first field to fill out which is the resource group: <br><br>
 <img src="https://i.ibb.co/HxMqFd1/2.jpg" alt="2" border="0">
