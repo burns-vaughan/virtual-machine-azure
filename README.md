@@ -61,11 +61,11 @@ Next, you need to grab the public address for the virtual machine you created in
 
 <img src="https://i.ibb.co/1sf7QQb/5-public-ip.jpg" alt="5-public-ip" border="0"> </br></br>
 
-Input that into the Windows Remote Desktop, shown in the screenshot below:<br>
-<img src="https://i.ibb.co/6RrbF33/remote-desktop-input-ip.jpg" alt="remote-desktop-input-ip" border="0"> </br></br>
+Input that into the Windows Remote Desktop, shown in the screenshot below: </br></br>
+<img src="https://i.ibb.co/6RrbF33/remote-desktop-input-ip.jpg" alt="remote-desktop-input-ip" border="0"> </br>
 
-Next, you need to click on 'more choices', shown in the screenshot below:<br>
-<img src="https://i.ibb.co/xGTFcX3/6-change-username-remote-desktop.jpg" alt="6-change-username-remote-desktop" border="0"> </br></br>
+Next, you need to click on 'more choices', shown in the screenshot below: </br></br>
+<img src="https://i.ibb.co/xGTFcX3/6-change-username-remote-desktop.jpg" alt="6-change-username-remote-desktop" border="0">
 
 Now, input the username and password for you that you set when you created it. And select connect. Below, is a screenshot showing how it should look:</br></br>
 
