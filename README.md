@@ -3,8 +3,7 @@
 </p>
 
 <h1>Microsoft Azure - How to Create a Virtual Machine</h1>
-<p align="center">[in progress]</p>
-This tutorial outlines how to create a virtual machine in Microsoft Azure.<br />
+This tutorial outlines how to create a virtual machine in Microsoft Azure. As well as, the minimum resources you should assign to it, such as the RAM and CPU<br />
 
 <h2>Environments and Technologies Used</h2>
 
