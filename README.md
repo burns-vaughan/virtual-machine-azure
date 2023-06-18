@@ -67,7 +67,10 @@ Input that into the Windows Remote Desktop, shown in the screenshot below:<br>
 Next, you need to click on 'more choices', shown in the screenshot below:<br>
 <img src="https://i.ibb.co/xGTFcX3/6-change-username-remote-desktop.jpg" alt="6-change-username-remote-desktop" border="0">
 
-Now, input the username and password for you that you set when you created it. And select connect. It will then log you into your virtual machine. It will a minute or so to completely log in. It will ask you about a few settings to set up Windows 10 for the first time. Use all the defaults or change them based on your personal preference.
+Now, input the username and password for you that you set when you created it. And select connect. Below, is a screenshot showing how it should look:<br>
+
+<img src="https://i.ibb.co/GTGVZnS/7-input-new-login-info.jpg" alt="7-input-new-login-info" border="0">
+It will then log you into your virtual machine. It will a minute or so to completely log in. It will ask you about a few settings to set up Windows 10 for the first time. Use all the defaults or change them based on your personal preference.
 
 That's it all done. It's important to note that you will want to delete all the resources created afterwards if you do not intend to use your VM. This is because it will charge you some credits from your free account. Or, charge on pay as you go based on your current subscription. The cost is very cheap - about 20 cents per hour, but it's not worth keeping it on your account if you don't intend to use it. 
 
