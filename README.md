@@ -51,7 +51,7 @@ Here's a screenshot showing the final screen:<br><br>
 Hit 'review and create'. It will take a few minutes to create it for you. If you get any error messages you have likely accidentally left something out or filled out a field incorrectly. <br><br>A common one, is accidentally not selecting that you have a Windows license. You simply need to tick the box and hit review and create a gain.
 
 <h3>3. Log into remote machine</h3>
-Your virtual machine is all set up. Now, let's log into it. The vast majority of people use Windows, so I will explain how to log into it using Windows. For Mac or Linux, do a quick Google search for what program to use.<br>
+Your virtual machine is all set up. Now, let's log into it. The vast majority of people use Windows, so I will explain how to log into it using Windows. For Mac or Linux, do a quick Google search for what program to use.<br><br>
 
 Open Windows Remote Desktop by searching for it in your Windows start menu. Below, is a screenshots showing how to open it:<br><br>
 
