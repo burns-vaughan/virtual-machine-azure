@@ -33,14 +33,14 @@ Below, is a screenshot showing where to create the virtual machine in Azure. As 
 <h3>2. Configure resource group, and network</h3>
 
 After that it will ask you to fill out the key info. For convenience here's a short list of what to set everything to in order.
-- Resource group - create new, name is something convenient
-- Virtual machine name - name it something convenient
-- Region - leave as default or change to your region. Not very important for creating the VM and can be edited later.
-- Image (.iso image) - Windows 10
-- Size - Standard_E2s_v3 - 2 vcpus, 16 GiB memory. Giving it 2 virtual CPUs and 16GB of RAM.
-- Authentication type - change to password
-- Username and password: Name is something convenient and ensure you note it down somewhere
-- Licensing - confirm you have a license for Windows 10.
+- <strong>Resource group</strong> - create new, name is something convenient
+- <strong>Virtual machine name</strong> - name it something convenient
+- <strong>Region</strong> - leave as default or change to your region. Not very important for creating the VM and can be edited later.
+- <strong>Image (.iso image)</strong> - Windows 10
+- <strong>Size</strong> - Standard_E2s_v3 - 2 vcpus, 16 GiB memory. Giving it 2 virtual CPUs and 16GB of RAM.
+- <strong>Authentication type</strong> - change to password
+- <strong>Username and password</strong> - Name is something convenient and ensure you note it down somewhere
+- <strong>Licensing</strong> - confirm you have a license for Windows 10.
 
 Here's a screenshot showing the final screen:<br><br>
 
